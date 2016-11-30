@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ToggleButtonView">
+        <attr name="tbv_edgeColor" format="color"></attr>
+        <attr name="tbv_onColor" format="color"></attr>
+        <attr name="tbv_offColor" format="color"></attr>
+        <attr name="tbv_btnColor" format="color"></attr>
+        <attr name="tbv_edgeWidth" format="dimension"></attr>
+        <attr name="tbv_defaultToggle" format="boolean"></attr>
+    </declare-styleable>
+</resources>
